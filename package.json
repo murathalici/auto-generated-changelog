@@ -1,0 +1,24 @@
+{
+  "name": "changelog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major": "standard-version --release-as major"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^7.0.0",
+    "standard-version": "^9.3.1"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0"
+  }
+}
