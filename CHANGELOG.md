@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/murathalici/auto-generated-changelogg/compare/v1.1.0...v1.1.1) (2021-09-02)
+
+
+### Bug Fixes
+
+* updating commitUrl and compareUrl values in .versionrc.json ([59a5998](https://github.com/murathalici/auto-generated-changelog/commits/59a5998754941363ffa0384585b9e29dfa35beda))
+
 ## [1.1.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.0.0...v1.1.0) (2021-09-01)
 
 
